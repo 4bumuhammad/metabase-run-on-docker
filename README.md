@@ -40,5 +40,40 @@ Use this quick start to run the Open Source version of Metabase locally. See bel
 ### Application
 
 <p align="center">
-    <img src="./under_construction_small.png" alt="under_construction_small" style="display: block; margin: 0 auto;">
+    <img src="./ss_001_metabase.png" alt="ss_metabase" style="display: block; margin: 0 auto;">
 </p>
+
+<p align="center">
+    <img src="./ss_002_metabase.png" alt="ss_metabase" style="display: block; margin: 0 auto;">
+</p>
+
+<p align="center">
+    <img src="./ss_003_metabase.png" alt="ss_metabase" style="display: block; margin: 0 auto;">
+</p>
+
+<p align="center">
+    <img src="./ss_004_metabase.png" alt="ss_metabase" style="display: block; margin: 0 auto;">
+</p>
+
+<p align="center">
+    <img src="./ss_005_metabase.png" alt="ss_metabase" style="display: block; margin: 0 auto;">
+</p>
+
+<p align="center">
+    <img src="./ss_006_metabase.png" alt="ss_metabase" style="display: block; margin: 0 auto;">
+</p>
+
+<p align="center">
+    <img src="./ss_007_metabase.png" alt="ss_metabase" style="display: block; margin: 0 auto;">
+</p>
+
+<p align="center">
+    <img src="./ss_008_metabase.png" alt="ss_metabase" style="display: block; margin: 0 auto;">
+</p>
+
+
+
+
+---
+
+exposure and application by Dhony Abu Muhammad
